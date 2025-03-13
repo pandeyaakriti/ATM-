@@ -1,0 +1,17 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Dependency directories
+/node_modules
+/bin
+/obj
+
+# System files
+Thumbs.db
+.DS_Store
